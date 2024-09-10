@@ -5,7 +5,7 @@
   "_i18nId": "home",
   "_seeded": "/index.json",
   "_root": "pages",
-  "title": "Homepage 1",
+  "title": "Homepage",
   "headline": "Shape content\nfor the modern web.",
   "byline": "Open source headless CMS with minimal setup.\nFully typed content right in your repository. ",
   "action": {
@@ -14,7 +14,11 @@
     "_entry": "2YWqKUTrANlgEFMyBUEYdih2HpP",
     "label": "Get started"
   },
-  "screenshot": {},
+  "screenshot": {
+    "_id": "2ls9fYWu6A9RyFNNszoq0Pa0b4y",
+    "_type": "image",
+    "_entry": "2ls9fTbUSCjHEniL9rIpaxEnWgu"
+  },
   "introduction": {
     "text": [
       {
